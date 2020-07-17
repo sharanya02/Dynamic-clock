@@ -1,2 +1,2 @@
 # Dynamic-clock
-Dynamic Clock with OpenCV library
+Dynamic Clock  made with OpenCV library
